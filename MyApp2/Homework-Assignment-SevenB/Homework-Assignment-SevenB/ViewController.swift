@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet var greenScreenLabel: UILabel!
     
     @IBAction func pressMeButton(_ sender: Any) {
-        greenScreenLabel.text = "It's still green"
+        greenScreenLabel.text = "Wow"
     }
     
     override func viewDidLoad() {
